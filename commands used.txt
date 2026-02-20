@@ -1,0 +1,15 @@
+ls -la
+ls -la
+mkdir 
+mkdir  
+mkdir
+cat 
+cat 
+chmod 644 teachers/*/*.txt
+cd kitengela_secondary_school
+echo 
+echo 
+echo 
+echo 
+echo
+ chmod +x setup_school.sh
