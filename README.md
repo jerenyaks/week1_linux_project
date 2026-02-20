@@ -13,3 +13,13 @@ Apply permissions with :
 • 	Teacher files:  (owner read/write, others read)
 • 	Student files:  (everyone can read)
 • 	Scripts: 
+
+
+
+CHALLENGES:1.Difficulty in navigating the terminal especially with needed commands
+I was able to see the computer as a different machine as i prevoiusly thought it was
+I will continually learn intesnsively about the programming languages and operating systems
+creating databases for industries and institutions
+
+
+ 
